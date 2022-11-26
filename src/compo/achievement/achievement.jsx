@@ -16,7 +16,7 @@ const achievement = () => {
     <div style={ { display: "flex", justifyContent: "center" }
 }>
 
-  <a href="/DarkHatCEHv12.pdf" class="btn btn-outline-primary btn3 mybtnd" style={{width: "300px"}} download> Download Brochure </a>      
+  <a href="/DarkHatCEHv12.pdf" class="btn btn3 btn-primary mybtnd" style={{width: "300px" , color: "#fff"}} download> Download Brochure </a>      
     </div>
 
     <Test></Test>
